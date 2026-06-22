@@ -35,7 +35,7 @@ Hi, I'm a Computer Engineering student at Ho Chi Minh City University of Technol
 
 * 🏛️ **Ho Chi Minh City University of Technology (HCMUT)** | *Sophomore*
     * **Major:** Computer Engineering
-    * **Focus Area:** Optimized Control, Hardware-Software Co-Design, Deep Learning Computer Architecture.
+    * **Focus Area:** VLSI Design.
 * 🏫 **THPT Chuyên Hùng Vương Gia Lai** | *Alumni*
     * **Major:** Computer Science (Chuyên Tin)
 
