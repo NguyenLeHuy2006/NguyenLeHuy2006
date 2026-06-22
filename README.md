@@ -1,11 +1,9 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your_github_username/your_github_username/main/images/lehuy-lofi-gamer-polymath-banner-16x9.gif" alt="Gamer-Artist-Polymath Banner" style="width: 100%; max-width: 1000px; height: auto;" />
+<img width="273.6" height="153.6" alt="Gemini_Generated_Image_7x7t4i7x7t4i7x7t" src="https://github.com/user-attachments/assets/15287f95-1519-4d17-92a9-46f927ba1917" />
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=600&lines=Welcome+to+my+Universe!+%E2%9C%A8;Hi,+I'm+Lê+Huy+👋;Computer+Engineering+Student+💻;Gamer,+Musician,+Hybrid+Athlete+🏋️‍♂️" alt="Typing SVG" />
-</p>
+  <b>Hi, I'm Lê Huy 👋 </b>
+
 <p align="center">
   <b>Computer Engineering @ HCMUT </b>
 </p>
@@ -114,12 +112,14 @@ A Polymath approach means I embrace physical and artistic disciplines:
   <i>"Cultivating expertise in optimized control and a diverse polymath lifestyle."</i>
 </p>
 
+<p align="center">
 <br>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100%" height="15" alt="Divider GIF">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RqMjhtZGtqbDA3MGF0bnFwbjd3eXRxNXZoMmwxanFjODkxZm15ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jLGtCJZ42ng2tAkfqk/giphy.gif" width="50%" height="600" alt="Divider GIF">
 <br>
+</p>
 
-<h3 align="center">🕹️ Pac-Man Eating My Commits</h3>
+<h3 align="center">🕹️ Pac-Man Commits </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/NguyenLeHuy2006/NguyenLeHuy2006/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
 </p>
