@@ -24,10 +24,10 @@
 
 Hi, I'm a Computer Engineering student at Ho Chi Minh City University of Technology (HCMUT), specializaed in Edge AI, hardware-software co-design, machine learning & deep learning architectures, VLSI Design.
 
-* 🔭 **Focusing on:** AI Accelerator, ML-DL, Quantum Computing, FrontEnd & BackEnd, IC Design .
+* 🔭 **Focusing on:** AI Accelerator, ML-DL, Quantum Computing, FrontEnd & BackEnd, IC Design, UI/UX Design.
 * 🌱 **Cultivating:** A life-long learning approach, balancing technical expertise with physical prowess and artistic expression.
 * 🎮 **Leisure:** Calisthenics, playing Violin, portrait photography, and exploring the Teyvat/Star Rail universe.
-* ⚡ **Fun Fact:** Greatly fascinated by Seiyuu culture, voice modulation, playing Chinese chess, Rubik's cube.
+* ⚡ **Fun Fact:** Greatly fascinated by Seiyuu culture, voice modulation, playing Chinese chess, Rubik's cube, dance.
 
 ---
 
